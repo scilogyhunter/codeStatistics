@@ -1,0 +1,2 @@
+# codeStatistics
+codeStatistics.py用于统计C语言工程中的文件数和代码行数
